@@ -1,4 +1,4 @@
-import ReactDom from 'react-dom';
+import ReactDom from  'react-dom';
 import routes from './routes/';
 
-ReactDom.render(routes, document.getElementById('root'));
+ReactDom.render(routes, document.getElementById( 'root'));
